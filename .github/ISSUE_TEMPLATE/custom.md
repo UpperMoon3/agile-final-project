@@ -7,16 +7,16 @@ assignees: ''
 
 ---
 
-**As a** [role]  
-**I need** [function]  
-**So that** [benefit]  
+**В качестве** [роль]  
+**Мне нужно** [функция]  
+**Чтобы** [цель/выгода]  
       
-### Details and Assumptions
-* [document what you know]
+### Детали и предположения
+* [опишите что вы знаете]
       
-### Acceptance Criteria  
+### Критерии приемки  
 ```gherkin 
-Given [some context]
-When [certain action is taken]
-Then [the outcome of action is observed]
+Дано [некоторый контекст]
+Когда [выполняется определенное действие]
+Тогда [наблюдается результат действия]
 ```
